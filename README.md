@@ -8,13 +8,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonwssantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que uso no dia a dia
+## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"></br>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
+  <img align="center" alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img align="center" alt="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v2.png" />
 </div></br>
+
+![Snake animation](https://github.com/robsonwssantos/robsonwssantos/blob/output/github-contribution-grid-snake.svg)
 
 Apaixonado por tecnologia, estudando para ser desenvolvedor Full Stak
 
