@@ -5,6 +5,7 @@
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015290596302)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
+![Snake animation](https://github.com/robsonwssantos/robsonwssantos/blob/output/github-contribution-grid-snake.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonwssantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,7 +17,6 @@
   <img align="center" alt="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v2.png" />
 </div></br>
 
-![Snake animation](https://github.com/robsonwssantos/robsonwssantos/blob/output/github-contribution-grid-snake.svg)
 
 Apaixonado por tecnologia, estudando para ser desenvolvedor Front-End
 
