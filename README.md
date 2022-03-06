@@ -19,7 +19,7 @@
 
 ![Snake animation](https://github.com/robsonwssantos/robsonwssantos/blob/output/github-contribution-grid-snake.svg)
 
-Apaixonado por tecnologia, estudando para ser desenvolvedor Full Stack
+Apaixonado por tecnologia, estudando para ser desenvolvedor Front-End
 
 
                                                                                 
