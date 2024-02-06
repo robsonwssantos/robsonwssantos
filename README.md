@@ -7,9 +7,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonwssantos&layout=compact)
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/robsonwssantos/blob/output/github-contribution-grid-snake.svg)
-
-
 ## Ferramentas e Tecnologias       
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
