@@ -1,13 +1,12 @@
-# 👋 Hello! Welcome to my Github profile.
-## 😄 My name is Robson Schneider.
+## 😄  👋 Hello! Welcome to my Github profile.      
 
-<div>
-  
+### Detalhes
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonwssantos&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonwssantos&layout=compact)
-</div>
 
-## Ferramentas e Tecnologias       
+### Linguaguens utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonwssantos&layout=compact)
+
+### Ferramentas e Tecnologias       
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -20,15 +19,13 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
 </div>
 
-
-## Estou aprendendo
+### Estou aprendendo       
 
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
 </div>
 
-
-## Contatos:
+### Contatos       
 
 <div>
 <a href="https://instagram.com/_robson.schneider" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
