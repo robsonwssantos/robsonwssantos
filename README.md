@@ -8,10 +8,12 @@
   Neste repositório, você encontrará amostras de código, projetos pessoais e contribuições para projetos de código aberto. Estou constantemente aprendendo e explorando novas maneiras de melhorar minhas habilidades de desenvolvimento.
 </p>
 
-### Linguagens utilizadas
+### Estátisticas
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonwssantos&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonwssantos&show_icons=true&theme=dark)
 <br/> 
+
 
 ### 🚀 Minhas Skills      
 <div>
@@ -45,4 +47,6 @@
 <a href="https://www.linkedin.com/in/robsonwss" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href = "robson.willian@universo.univates.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/_robson.schneider" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/_robson.schneider" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/_robson.schneider" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>          
 </div>
