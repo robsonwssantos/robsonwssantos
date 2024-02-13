@@ -1,9 +1,9 @@
 # 👋 Bem-vindo ao meu GitHub!
 <p>
-  Olá, sou Robson Schneider, um entusiasta desenvolvedor front-end apaixonado por tecnologias web. Este é meu espaço no GitHub, onde compartilho e colaboro em projetos empolgantes..
+  😁 Olá, sou Robson Schneider, um entusiasta desenvolvedor front-end apaixonado por tecnologias web. Este é meu espaço no GitHub, onde compartilho e colaboro em projetos empolgantes..
 </p>
 <p>
-  🚀 O Que Você Pode Encontrar Aqui:
+  🔎 O Que Você Pode Encontrar Aqui:
   <br>
   Neste repositório, você encontrará amostras de código, projetos pessoais e contribuições para projetos de código aberto. Estou constantemente aprendendo e explorando novas maneiras de melhorar minhas habilidades de desenvolvimento.
 </p>
@@ -28,7 +28,7 @@
 
 <br/> 
 
-### Estou aprendendo       
+### 🎓 Estou aprendendo       
 
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
@@ -39,7 +39,7 @@
 
 <br/> 
 
-### Contatos       
+### 📨 Contatos       
 
 <div>
 <a href="https://www.linkedin.com/in/robsonwss" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
