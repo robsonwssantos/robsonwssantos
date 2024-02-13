@@ -1,7 +1,8 @@
-## 😄  👋 Hello! Welcome to my Github profile.      
-
+# 😄 👋 Hello! Welcome to my Github profile.   
 ### Linguagens utilizadas
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonwssantos&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/> 
 
 ### 🚀 Minhas Skills      
 <div>
@@ -16,6 +17,8 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
 </div>
 
+<br/> 
+
 ### Estou aprendendo       
 
 <div>
@@ -24,6 +27,8 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"  width="40" height="40"/> 
 </div>
+
+<br/> 
 
 ### Contatos       
 
