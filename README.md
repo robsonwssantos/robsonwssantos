@@ -1,4 +1,13 @@
-# 😄 👋 Hello! Welcome to my Github profile.   
+# 👋 Bem-vindo ao meu GitHub!
+<p>
+  Olá, sou Robson Schneider, um entusiasta desenvolvedor front-end apaixonado por tecnologias web. Este é meu espaço no GitHub, onde compartilho e colaboro em projetos empolgantes..
+</p>
+<p>
+  🚀 O Que Você Pode Encontrar Aqui:
+  <br>
+  Neste repositório, você encontrará amostras de código, projetos pessoais e contribuições para projetos de código aberto. Estou constantemente aprendendo e explorando novas maneiras de melhorar minhas habilidades de desenvolvimento.
+</p>
+
 ### Linguagens utilizadas
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonwssantos&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
