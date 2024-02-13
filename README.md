@@ -1,9 +1,9 @@
 ## 😄  👋 Hello! Welcome to my Github profile.      
 
-## Linguagens utilizadas
+### Linguagens utilizadas
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonwssantos&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀 Minhas Skills      
+### 🚀 Minhas Skills      
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
@@ -16,7 +16,7 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
 </div>
 
-## Estou aprendendo       
+### Estou aprendendo       
 
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
@@ -25,7 +25,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"  width="40" height="40"/> 
 </div>
 
-## Contatos       
+### Contatos       
 
 <div>
 <a href="https://www.linkedin.com/in/robsonwss" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
