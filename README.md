@@ -5,7 +5,7 @@
 <p>
   🔎 O Que Você Pode Encontrar Aqui:
   <br>
-  Neste repositório, você encontrará amostras de código, projetos pessoais e contribuições para projetos de código aberto. Estou constantemente aprendendo e explorando novas maneiras de melhorar minhas habilidades de desenvolvimento.
+  Neste repositório, você encontrará amostras de código projetos pessoais e contribuições para projetos de código aberto. Estou constantemente aprendendo e explorando novas maneiras de melhorar minhas habilidades de desenvolvimento.
 </p>
 
 ### Estátisticas
