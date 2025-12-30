@@ -8,12 +8,6 @@
   Neste repositório, você encontrará amostras de código projetos pessoais e contribuições para projetos de código aberto. Estou constantemente aprendendo e explorando novas maneiras de melhorar minhas habilidades de desenvolvimento.
 </p>
 
-### Estátisticas
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonwssantos&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonwssantos&show_icons=true&theme=dark)
-<br/> 
-
 
 ### 🚀 Minhas Skills      
 <div>
